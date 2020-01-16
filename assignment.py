@@ -4,7 +4,7 @@
 # In[ ]:
 
 
-print("hello this is group 7")
+print("hello this is group 7 in Tobigs")
 
 
 # In[ ]:
@@ -17,7 +17,7 @@ user = int(input("How many are there in group 7?: "))
 
 
 if user != 3:
-   print("Sorry, I don't think so")
+   print("Sorry, I don't think so :(")
 else:
-   print("Yay you are right! Welcome!")
+   print("Yay you are right! Welcome! :)")
 
