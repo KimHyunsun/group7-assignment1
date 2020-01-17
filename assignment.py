@@ -27,3 +27,10 @@ else:
 
 name=str(input("Please write your name: "))
 print('Hi, nice to meet you', name)
+
+
+# In[ ]:
+
+
+name=str(input("Please write your name: "))
+print('Hi, nice to meet you', name)
