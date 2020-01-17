@@ -21,3 +21,9 @@ if user != 3:
 else:
    print("Yay you are right! Welcome! :)")
 
+
+# In[ ]:
+
+
+name=str(input("Please write your name: "))
+print('Hi, nice to meet you', name)
