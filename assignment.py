@@ -5,7 +5,7 @@
 
 
 print("hello this is group 7 in Tobigs")
-
+print("Nice to meet you. Let's try our best.")
 
 # In[ ]:
 
